@@ -7,3 +7,5 @@ Bright Steps is a learning app for children from kindergarten through 6th grade.
 
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
+
+[Privacy Policy](PrivacyPolicy.md)
