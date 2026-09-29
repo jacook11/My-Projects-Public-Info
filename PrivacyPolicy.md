@@ -1,5 +1,7 @@
 # Privacy Policy
 
+This policy covers Bright Steps and Draft The Draft.
+
 This policy describes how Bright Steps handles information. Bright Steps is a learning app for children from kindergarten through 6th grade.
 
 We do not ask for a name, email address, or account. We do not collect personal information from children, and we do not sell information or show ads.
@@ -18,3 +20,7 @@ For more information or to contact us with questions please email us at App_Subm
 Thank you
 
 Effective date: September 28, 2026
+
+## Draft The Draft
+
+Draft The Draft is a separate project. This repository does not describe what information it handles, so this policy does not state collection, storage, or sharing practices for Draft The Draft.

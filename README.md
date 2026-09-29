@@ -1,5 +1,5 @@
 # My-Projects-Public-Info
-Public information for some of my projects.
+Public information for some of my projects. This page covers Bright Steps and Draft The Draft.
 
 ## Bright Steps
 
@@ -7,5 +7,9 @@ Bright Steps is a learning app for children from kindergarten through 6th grade.
 
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
+
+## Draft The Draft
+
+Draft The Draft is a separate project covered on this page.
 
 [Privacy Policy](PrivacyPolicy.md)
