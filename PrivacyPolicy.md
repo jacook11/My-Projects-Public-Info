@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This policy covers Bright Steps and Draft The Draft.
+This policy covers Bright Steps, Draft The Draft, and Out of Rotation.
 
 This policy describes how Bright Steps handles information. Bright Steps is a learning app for children from kindergarten through 6th grade.
 
@@ -41,3 +41,24 @@ For more information or to contact us with questions please email us at App_Subm
 Thank you
 
 Effective date: September 29, 2026
+
+## Out of Rotation
+
+This policy describes how Out of Rotation handles information. Out of Rotation is a volleyball scorekeeper for iPhone and iPad.
+
+We do not ask for an email address or an account. We do not sell information or show ads.
+
+## Information stored on the device
+
+Matches, saved teams, and match settings stay on the device. That includes team names, player names, jersey numbers, scores, lineups, and substitutions. This information is not sent to us.
+
+A finished match can be shared as text. The text contains the team names and the set scores, and it leaves the device only when you copy or share it.
+
+A team roster can be shared as a link. The link contains the team name and each player’s jersey number and name, and it leaves the device only when you copy or share it. Opening that link on another device can save the roster there.
+
+## Contact
+
+For more information or to contact us with questions please email us at App_Submissions@hotmail.com
+Thank you
+
+Effective date: October 13, 2026

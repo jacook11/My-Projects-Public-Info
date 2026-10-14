@@ -1,5 +1,5 @@
 # My-Projects-Public-Info
-Public information for some of my projects. This page covers Bright Steps and Draft The Draft.
+Public information for some of my projects. This page covers Bright Steps, Draft The Draft, and Out of Rotation.
 
 ## Bright Steps
 
@@ -11,6 +11,13 @@ Thank you
 ## Draft The Draft
 
 Draft The Draft is a mock-draft app for the 2027 NFL Draft, on the web and on iPhone and iPad. You make every first-round pick, filter the board, take a player or auto-fill by consensus rank, save drafts on the device, and share a finished board, with a grade when that board is from the 2026 draft.
+
+For more information or to contact us with questions please email us at App_Submissions@hotmail.com
+Thank you
+
+## Out of Rotation
+
+Out of Rotation is a volleyball scorekeeper for iPhone and iPad. You keep the score, the sets, the rotation, and substitutions while you stand courtside, save matches and rosters on the device, and share a finished result or a team roster.
 
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
