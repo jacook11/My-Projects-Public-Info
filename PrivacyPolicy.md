@@ -2,6 +2,7 @@
 
 This policy covers Bright Steps, Draft The Draft, Out of Rotation and Holiday Arcade.
 
+
 ## Bright Steps
 
 This policy describes how Bright Steps handles information. Bright Steps is a learning app for children from kindergarten through 6th grade.
@@ -23,6 +24,7 @@ Thank you
 
 Effective date: September 28, 2026
 
+
 ## Draft The Draft
 
 This policy describes how Draft The Draft handles information. Draft The Draft is a mock first-round board for the 2027 NFL Draft.
@@ -43,6 +45,7 @@ For more information or to contact us with questions please email us at App_Subm
 Thank you
 
 Effective date: September 29, 2026
+
 
 ## Out of Rotation
 
