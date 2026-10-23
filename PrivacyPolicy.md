@@ -1,6 +1,8 @@
 # Privacy Policy
 
-This policy covers Bright Steps, Draft The Draft, and Out of Rotation.
+This policy covers Bright Steps, Draft The Draft, Out of Rotation and Holiday Arcade.
+
+## Bright Steps
 
 This policy describes how Bright Steps handles information. Bright Steps is a learning app for children from kindergarten through 6th grade.
 
@@ -61,4 +63,20 @@ A team roster can be shared as a link. The link contains the team name and each 
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
 
-Effective date: October 13, 2026
+
+
+## Holiday Arcade
+
+This policy describes how Holiday Arcade handles information. Holiday Arcade is a fun kids app for iPhone and iPad.
+
+We do not ask for an email address or an account. We do not sell information or show ads.
+
+## Information stored on the device
+
+High scores are the only thing saved to the device. No names, emails or any personal information is saved or asked for by the app.
+
+## Contact
+
+For more information or to contact us with questions please email us at App_Submissions@hotmail.com
+Thank you
+Effective date: October 23, 2026
