@@ -22,4 +22,11 @@ Out of Rotation is a volleyball scorekeeper for iPhone and iPad. You keep the sc
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
 
+## Holiday Arcade (Xmas Fun)
+
+Holiday Arcade is an app for kids to have fun. It allows them to sort toys, feed a reindeer and help Santa collect toys.
+
+For more information or to contact us with questions please email us at App_Submissions@hotmail.com
+Thank you
+
 [Privacy Policy](PrivacyPolicy.md)
