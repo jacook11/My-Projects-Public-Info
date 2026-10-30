@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This policy covers Bright Steps, Draft The Draft, Out of Rotation and Holiday Arcade.
+This policy covers Bright Steps, Draft The Draft, Out of Rotation, Holiday Arcade and GroceryJen.
 
 
 ## Bright Steps
@@ -83,3 +83,22 @@ High scores are the only thing saved to the device. No names, emails or any pers
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
 Effective date: October 23, 2026
+
+
+
+
+## GroceryJen
+
+This policy describes how GroceryJen handles information. GroceryJen is an app for iPhone and iPad that helps add grocery items to your wal-mart cart.
+
+We do not ask for an email address or an account. We do not sell information or show ads.
+
+## Information stored on the device
+
+The last date/time you added a product or meal to your cart. No names, emails or any personal information is saved or asked for by the app.
+
+## Contact
+
+For more information or to contact us with questions please email us at App_Submissions@hotmail.com
+Thank you
+Effective date: November 1st, 2026
