@@ -29,4 +29,11 @@ Holiday Arcade is an app for kids to have fun. It allows them to sort toys, feed
 For more information or to contact us with questions please email us at App_Submissions@hotmail.com
 Thank you
 
+## GroceryJen
+
+GroceryJen is an app I made for my wife. It helps her add grocery items/meals to her wal-mart cart. It makes creating a grocery pick-up order easier and faster.
+
+For more information or to contact us with questions please email us at App_Submissions@hotmail.com
+Thank you
+
 [Privacy Policy](PrivacyPolicy.md)
